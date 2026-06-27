@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/mrm_fairness_auditor/__init__.py
+src/mrm_fairness_auditor/fairness_auditor.py
+src/mrm_fairness_auditor.egg-info/PKG-INFO
+src/mrm_fairness_auditor.egg-info/SOURCES.txt
+src/mrm_fairness_auditor.egg-info/dependency_links.txt
+src/mrm_fairness_auditor.egg-info/requires.txt
+src/mrm_fairness_auditor.egg-info/top_level.txt
