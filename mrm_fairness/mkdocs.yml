@@ -3,6 +3,7 @@ theme: readthedocs
 
 nav:
   - Home: index.md
+  - Installation: Installation.md
   
 markdown_extensions:
   - pymdownx.arithmatex:

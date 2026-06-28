@@ -24,7 +24,7 @@ The core dependencies that will be installed automatically include:
 For most users, the standard and stable version can be installed directly from PyPI using `pip`. Run the following command in your terminal or command prompt:
 
 ```bash
-pip install bias-fairness-engine
+pip install mrm_fairness_auditor
 ```
 
 ## 🛠️ 2. Installation from GitHub (Development Version)
@@ -34,5 +34,7 @@ If you wish to work with the latest features, contribute to development, or run 
 You can point pip directly to the remote repository without downloading it manually:
 
 ``` bash
-pip install git+[https://github.com/username/bias-fairness-engine.git](https://github.com/username/bias-fairness-engine.git)
+
+pip install git+https://github.com/data-science-geek86/MRM_FAIRNESS.git#subdirectory=mrm_fairness
+
 ```
