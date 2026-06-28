@@ -7,8 +7,7 @@ By leveraging the **Population Stability Index (PSI)** alongside customizable st
 
 ## 📦 Installation Guide: Bias Audit & Fairness Engine
 
-This guide provides step-by-step instructions for installing the **Bias Audit & Fairness Assessment Engine** and its necessary dependencies. 
-Follow these instructions to set up your environment for production usage or local development.
+Follow step-by-step instructions for installing the **Bias Audit & Fairness Assessment Engine** and its necessary dependencies. 
 
 ---
 
